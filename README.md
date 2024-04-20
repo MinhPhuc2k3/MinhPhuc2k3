@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MinhPhuc2k3
-- 👀 I’m interested in Game
 - 🌱 I’m currently learning PTIT
 
 <!---
